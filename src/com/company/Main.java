@@ -6,5 +6,6 @@ public class Main {
  }
  public static void printHola(){
  System.out.println("Hola món! i Hola Xavi!");
+  System.out.println("Qué tal estas?");
  }
 }
